@@ -6,3 +6,5 @@ mkdocs
 docutils
 coveragespace
 Flask-API
+flask==2.0.3
+werkzeug==2.0.3
